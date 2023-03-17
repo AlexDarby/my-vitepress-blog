@@ -1,34 +1,18 @@
 <template>
-  <div class="pic"></div>
+  <div class="pic">
+    <img src="me.f5ba453e.jpeg">
+  </div>
 </template>
 <script lang="ts" setup>
-import { onMounted } from "vue";
-import lottie from "lottie-web";
-onMounted(() => {
-  // storage lottie
-  const svgContainer = document.getElementById("svgContainer");
-  if (svgContainer) {
-    return;
-  }
-  // created insertNode and add style
-  const insertNode = document.createElement("div");
-  insertNode.id = "svgContainer";
-  insertNode.style.width = "300px";
-  insertNode.style.margin = "0 auto";
-  const pic = document.getElementsByClassName("pic")[0];
-  pic.appendChild(insertNode);
-  // created lottie
-  const animItem = lottie.loadAnimation({
-    container: insertNode,
-    renderer: "svg",
-    loop: true,
-    path: "https://labs.nearpod.com/bodymovin/demo/markus/isometric/markus2.json",
-  });
-});
 </script>
 <style scoped>
+
 .pic {
-  text-align: center;
+  /* padding: 10px; */
+}
+.pic img{
+  margin: 20px auto;
   height: 300px;
+  border-radius: 50%;
 }
 </style>
