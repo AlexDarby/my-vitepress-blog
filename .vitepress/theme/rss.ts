@@ -6,7 +6,7 @@ import MarkdownIt from "markdown-it";
 import type { FeedOptions, Item } from "feed";
 import { Feed } from "feed";
 
-const DOMAIN = "https://alexjd.co.uk";
+const DOMAIN = "https://alexjd.co.uk/";
 const AUTHOR = {
   name: "Alex Darby",
   email: "alexd@fastmail.com",
