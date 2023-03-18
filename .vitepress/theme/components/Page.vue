@@ -5,7 +5,7 @@
     <a class="blog" v-for="item in posts" :href="withBase(item.regularPath)">
       <div class="title">{{ item.frontMatter.title }}</div>
       <div class="date">{{ transDate(item.frontMatter.date) }}</div>
-      <span v-for="tag in item.frontMatter.tags" :key="tag" class="tag">{{ tag + " " }} </span>
+      • <span v-for="tag in item.frontMatter.tags" :key="tag" class="tag">{{ tag + " • " }} </span>
     </a>
   </div>
   <div class="pagination">
