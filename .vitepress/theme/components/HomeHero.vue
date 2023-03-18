@@ -1,6 +1,6 @@
 <template>
   <div class="pic">
-    <img src="me.f5ba453e.jpeg">
+    <img src="/me.f5ba453e.jpeg">
   </div>
 </template>
 <script lang="ts" setup>
