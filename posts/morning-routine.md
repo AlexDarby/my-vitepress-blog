@@ -1,5 +1,5 @@
 ---
-title: "Optimal mourning routine for the hyper-productive"
+title: "Optimal morning routine for the hyper-productive"
 description: Ensure you start your day for peak performance.
 aside: false
 date: 2023-03-25
