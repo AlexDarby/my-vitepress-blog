@@ -1,0 +1,20 @@
+---
+title: "How To Win Scrum"
+description: Navigating the murky waters of a modern agile process.
+aside: false
+date: 2023-03-27
+tags:
+  - Scrum
+  - Agile
+---
+
+Right, for the most part, if you are reading this you have likely been doing Scrum wrong. It's not your fault, nobody is blaming you. After all, this is a blameless working environment right? Oh my sweet summer child, no. By assuming you are working in an innocent fairytale land of egalitarian free-flowing ideas, you have allowed your colleagues to gain a critical advantage over you. Never fear my vulnerable friend. With these simple steps, you will wrestle control of the situation back from your fellows and gorge yourself on the bounteous glory of becoming The Winner Of Scrum.
+
+1. The Winner Of Scrum is a mindset. Your colleagues will approach a discussion with flexibility and collaboration. You must remain steadfast in your resolve. Your agenda is solid granite. It is a mighty millstone with which you grind your opponents into submission. Every ceremony, standup, conversation, and discussion, is an opportunity for you to ensure everyone is aware of your views on Technical Debt, or espouse the virtues of the frontend framework du jour. The content of your views matters not. Only that they are yours. If the recipient of your views is not rolling their eyes the minute you start speaking, you have not pushed it far enough.
+2. The Winner Of Scrum does not burden themselves with following the Scrum process, or any process for that matter. Processes are there to align others with your agenda or cause so much red tape that yours is the only way forward. Add more processes. Create meetings to discuss adding more processes. The more others are adhering to "The Process", the less time they have to question your motives. If people question your motives, suggest adding a process whereby questions can only be raised in written form.
+3. Claim the overbearing process is the root of the problem to destabilise the team. Ideally, if you have a "Scrum Master" they should be a nervous wreck.
+4. The Winner Of Scrum aligns themselves with less confident members of the team who can parrot your nonsense. If you have followed step 2 well enough, everyone else will be so confused and bogged down with admin and meetings that you will have achieved a majority.
+5. The Winner Of Scrum is relentless in execution. Take every opportunity to implement "What you thought the User Story meant" instead of delivering the specified work. Cherry-pick work items on components you are opposed to and claim they are impossible to work with until extensively refactored. If you are forced to drop this work item and move on for any reason, ensure you introduce a vicious bug with the component. Something that will take an unnecessarily long time to resolve, even for a competent engineer. You have now aligned a competent engineer with your agenda.
+6. The Winner OF Scrum does not allow meddling in the team from any outside influences. Stakeholders, managers, Product. You have carefully pruned your walled garden to get to this point and outsiders will ruin everything with their accountability and logic.
+7. The Winner Of Scrum keeps speaking. You talk and talk. You do not stop talking. You talk over, through and beyond everyone else. Every moment of silence, hesitation, or question is an opportunity for you to talk, especially if that question was not directed at you. You carpet-bomb the discussion with your words. Even if they make less and less sense the more you talk. Everyone else will have stopped listening, they will just be able to remember the sound of your voice going around and around. 
+8. The Winner OF Scrum stays true to their cause. You should by now have established an environment so confused and mired in red tape that healthy discussion is impossible. However, you must remain vigilant. Your mind is a fortress and you cannot allow it to be changed by the well-meaning ideas of your coworkers. Distraction is key here. Sensing a conversation is getting out of hand? ... time to turn off some production services. 
