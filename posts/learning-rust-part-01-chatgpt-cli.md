@@ -2,7 +2,7 @@
 title: "I'm Learning Rust Part 1: ChatGPT CLI App"
 description: Getting started learning Rust with a simple CLI app.
 aside: false
-date: 2023-03-31
+date: 2023-04-01
 tags:
   - Rust
   - ChatGPT
