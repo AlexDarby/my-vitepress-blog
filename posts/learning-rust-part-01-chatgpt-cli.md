@@ -152,4 +152,6 @@ Error: BackendError { message: "You exceeded your current quota, please check yo
 
 Perfect. Now once we've upgraded to the paid version of the API we should be able to call it using our app. Thats it for now. I've enjoyed getting to grips with Rust so far, the syntax is a little alien to me at the moment but the compiler is possibly the best I've ever used with very clear feedback.
 
+Check out the whole project on [GitHub](https://github.com/AlexDarby/gpt).
+
 From here we might want to consider how we could extend our project to securely store the API key locally. More to follow.
