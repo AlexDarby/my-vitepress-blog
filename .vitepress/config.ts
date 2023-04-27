@@ -69,7 +69,7 @@ async function config() {
         { icon: "github", link: "https://github.com/AlexDarby" },
         { icon: "mastodon", link: "https://mastodon.social/@darbs" },
         { icon: "twitter", link: "https://twitter.com/alex_darby" },
-        { icon: "instagram", link: "https://instagram.com/alex.daby" },
+        { icon: "instagram", link: "https://instagram.com/alex.darby" },
         { icon: "linkedin", link: "https://www.linkedin.com/in/alex-darby/"},
         {
           icon: {
