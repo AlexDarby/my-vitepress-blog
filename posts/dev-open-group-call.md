@@ -1,5 +1,5 @@
 ---
-title: "Using an Open Drop-In Call for Remote Working"
+title: "Using an Open Drop-In Call for Remote Working Teams"
 description: Thoughts about using an open drop-in call for development teams.
 aside: false
 date: 2023-08-25
@@ -24,3 +24,11 @@ There are occasions where two people are having a lengthy pair-programming sessi
 I will make a concession that this works incredibly well for a small team, within a relatively small business. I'm keen to understand how this will scale in the future. If these calls will become unwieldy or be dominated by a particularly outspoken individual. If the team are inundated by queries and requests from people keen to circumvent whatever light priority process is in place for addressing their concerns within the context of the business at large. These are all things to watch closely and not let get out of hand. These calls would be missed if they became unmanageable. 
 
 The biggest benefits of using group calls is we maintain a very lightweight and agile approach based on conversation over process, we are social and available to the business while also being able to duck out and focus on the task at hand where necessary. I'm hoping we can keep them alive as things grow and change.
+
+Final thoughts.
+
+- This approach enables conversation instead of process for remote working teams.
+- The team are available and accessible to the business, within reason. This is not a method to bypass Product priorities.
+- No obligation for team members to join the call if focus time is required, though the majority do. 
+- As the team scales, there will be a need to encourage short-lived breakout groups.
+- Vital informal social time.
