@@ -1,6 +1,6 @@
 ---
-title: "Using an Open Drop-In Call for Remote Working Teams"
-description: Thoughts about using an open drop-in call for development teams.
+title: "Using an Open Drop-In Call for Homeworking Teams"
+description: Thoughts about using an open drop-in call for homeworking development teams.
 aside: false
 date: 2023-08-25
 tags:
@@ -27,7 +27,7 @@ The biggest benefits of using group calls is we maintain a very lightweight and 
 
 Final thoughts.
 
-- This approach enables conversation instead of process for remote working teams.
+- This approach enables conversation instead of process for distributed teams.
 - The team are available and accessible to the business, within reason. This is not a method to bypass Product priorities.
 - No obligation for team members to join the call if focus time is required, though the majority do. 
 - As the team scales, there will be a need to encourage short-lived breakout groups.
