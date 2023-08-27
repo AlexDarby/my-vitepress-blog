@@ -31,4 +31,4 @@ Final thoughts.
 - The team are available and accessible to the business, within reason. This is not a method to bypass Product priorities.
 - No obligation for team members to join the call if focus time is required, though the majority do. 
 - As the team scales, there will be a need to encourage short-lived breakout groups.
-- Vital informal social time.
+- Provides vital informal social time.
